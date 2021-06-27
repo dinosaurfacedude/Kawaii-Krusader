@@ -1,3 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-gravity = 1;
+xspd = 0;
+yspd = 0;
+grav = 1;
+bouncedecay = 0.8;

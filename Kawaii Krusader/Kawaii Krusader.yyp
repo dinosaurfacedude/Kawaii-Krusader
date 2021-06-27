@@ -3,6 +3,7 @@
     {"id":{"name":"PlayerObject","path":"objects/PlayerObject/PlayerObject.yy",},"order":1,},
     {"id":{"name":"Player","path":"sprites/Player/Player.yy",},"order":0,},
     {"id":{"name":"OBJ_Ball","path":"objects/OBJ_Ball/OBJ_Ball.yy",},"order":0,},
+    {"id":{"name":"obj_swordswipe","path":"objects/obj_swordswipe/obj_swordswipe.yy",},"order":2,},
     {"id":{"name":"SP_ball","path":"sprites/SP_ball/SP_ball.yy",},"order":1,},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},"order":0,},
   ],

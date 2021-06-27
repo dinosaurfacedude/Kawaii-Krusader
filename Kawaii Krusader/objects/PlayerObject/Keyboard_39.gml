@@ -1,3 +1,4 @@
 /// @description Moves knight right
-
-x += 7;
+if(x < room_width - sprite_xoffset - speed){
+	x += 7;
+}

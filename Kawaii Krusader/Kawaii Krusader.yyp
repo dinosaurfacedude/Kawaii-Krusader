@@ -1,11 +1,11 @@
 {
   "resources": [
-    {"id":{"name":"PlayerObject","path":"objects/PlayerObject/PlayerObject.yy",},"order":1,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":1,},
     {"id":{"name":"Player","path":"sprites/Player/Player.yy",},"order":0,},
-    {"id":{"name":"playerState_attack_slash","path":"scripts/playerState_attack_slash/playerState_attack_slash.yy",},"order":1,},
-    {"id":{"name":"playerState_Free","path":"scripts/playerState_Free/playerState_Free.yy",},"order":0,},
+    {"id":{"name":"slash_attack","path":"sprites/slash_attack/slash_attack.yy",},"order":2,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":3,},
     {"id":{"name":"OBJ_Ball","path":"objects/OBJ_Ball/OBJ_Ball.yy",},"order":0,},
+    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":4,},
     {"id":{"name":"SP_ball","path":"sprites/SP_ball/SP_ball.yy",},"order":1,},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},"order":0,},
   ],
@@ -49,7 +49,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
   "name": "Kawaii Krusader",

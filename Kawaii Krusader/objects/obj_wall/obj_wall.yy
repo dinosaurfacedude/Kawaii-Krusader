@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Player",
-    "path": "sprites/Player/Player.yy",
+    "name": "SPR_wall",
+    "path": "sprites/SPR_wall/SPR_wall.yy",
   },
   "solid": false,
   "visible": true,
